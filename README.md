@@ -25,7 +25,10 @@ Basados en tendencias del publico foddie, Food Lovers te permite crear una red s
 
 El valor agragado a nuestra aplicacion se encuentra en la seccion de shop la cual permite al usuario comprar utencilios y productos referentes con la cocina y una porporcion de las ganancias obtenidas seran donadas a fundaciones contra el hambre.
 
+FUNDACIONES
+
 https://www.accioncontraelhambre.org/es
+http://www.fjldown.org/
 
 Con base a los datos obtenidos de una encuesta realizada a diferentes ususarios, probamos que las personas en verdad les gustaria ayudar en diferentes causas, y que la idea de que por medio de una red social puedas ayudar aparte de tener una funcionalidad que sirve para conocer recomendaciones de restaurantes, recetarios y crear comunidad da un mayor impacto que el simple hecho de pertenecer a una red social que talvez los intereses no son ayudar.
 
